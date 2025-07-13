@@ -1,4 +1,4 @@
 # First-Repo
 This is my first Git Reository.
 <br>
-Author - Sarthak Sahoo
+Author - Sarthak (Prince)
